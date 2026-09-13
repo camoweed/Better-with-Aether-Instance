@@ -5,6 +5,26 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
-file = "mods/fastboot.pw.toml"
-hash = "305a34ff97e8d5d84f78f760faa604d3ac72fe96cee5ae0615d743dd5b121eac"
+file = "mods/better-with-aether.pw.toml"
+hash = "15cedaa76d7fb48bb44c22a48bca0e9551a5eada192c723727243ca84d2eeb8c"
+metafile = true
+
+[[files]]
+file = "mods/catalyst.pw.toml"
+hash = "fe41ba016353f4083d0acf7785c52c6d19084274715301e42537073991576f5f"
+metafile = true
+
+[[files]]
+file = "mods/halplibe.pw.toml"
+hash = "f83d8942b478da4fb1e420ca9b796c14a0edc1284a7e85699c73e8f9a6196777"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "ad904a5325e192c732ab58723a9485f75ec601a953c76004cd1237102520d1e0"
+metafile = true
+
+[[files]]
+file = "mods/uselessnumerical.pw.toml"
+hash = "f877e1e3a55329bf93a785fc9b2d5385b77c177dcedbfa1cba85d3aa134656e5"
 metafile = true

@@ -1,0 +1,8 @@
+name = "Better with Aether"
+filename = "better-with-aether-1.1.2-pre2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/bta-team-port/better-with-aether/releases/download/1.1.2-pre2/better-with-aether-1.1.2-pre2.jar"
+hash-format = "sha256"
+hash = "4d53fab7260660d9c59dcae4e0867b1e912c183461e19b38cd50e5231f1df7ff"

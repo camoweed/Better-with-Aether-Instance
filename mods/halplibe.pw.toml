@@ -1,0 +1,8 @@
+name = "halplibe"
+filename = "halplibe-6.2.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IIu8YulV/versions/pCIOzf4A/halplibe-6.2.0%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "e356322d5ce3fda6631a322347451d5ad85704207870c0937d6193a9bc9f1738"
