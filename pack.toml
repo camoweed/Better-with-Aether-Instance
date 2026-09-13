@@ -1,4 +1,4 @@
-name = "BTA! packwiz example modpack"
+name = "Better with Aether Instance"
 author = "camoweed"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1a5a7ac7745436ef9945be028f34610f57d53387ed26703baa5ce8018bb68b3a"
+hash = "4ecf342b193870f4025bd04fdd9ae3ff96137c546cc901d734e53d9a7484b10b"
 
 [versions]
 bta = "8.0"

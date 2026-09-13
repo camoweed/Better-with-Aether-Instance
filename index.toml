@@ -5,6 +5,26 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "config/aether.cfg"
+hash = "e51a721a5101e2029b8f9cad007054b9dc4656e4674e477784a4ec3606026059"
+
+[[files]]
+file = "config/catalyst-effects.cfg"
+hash = "a09aabf3916b6b027e532d74ffc6bd3a1d76d2500cbc04d45d8f313f44c043a8"
+
+[[files]]
+file = "config/catalyst-energy.cfg"
+hash = "531d05b9a135f4e21502ea91491898bbeaaf260177b80a01b09f8451f97857e0"
+
+[[files]]
+file = "config/halplibe.cfg"
+hash = "867262422795ae5ff279dbc8670ef7ed250aea32208624db4e9437161d3f7aa1"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "ef28268c0796c3e6d980b7af6354dac5ffa0cd69953e61fd463450ab52ab39ea"
+
+[[files]]
 file = "mods/better-with-aether.pw.toml"
 hash = "15cedaa76d7fb48bb44c22a48bca0e9551a5eada192c723727243ca84d2eeb8c"
 metafile = true
