@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalyst.pw.toml"
-hash = "fe41ba016353f4083d0acf7785c52c6d19084274715301e42537073991576f5f"
+hash = "25a63fe68235210a7e8496bc1939b98b82d31f987870b488b838444f1c9c4765"
 metafile = true
 
 [[files]]

@@ -1,8 +1,8 @@
 name = "Catalyst"
-filename = "catalyst-all-3.0.3.jar"
+filename = "catalyst-all-3.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vT5p53cB/versions/pFS8KN1l/catalyst-all-3.0.3.jar?mr_download_reason=standalone"
+url = "https://cdn.modrinth.com/data/vT5p53cB/versions/wV516yBr/catalyst-all-3.1.4.jar?mr_download_reason=standalone"
 hash-format = "sha256"
-hash = "146ffa5fc9f88f346075052c30719475e0216650339ffc668e349e6feb243bcd"
+hash = "e6b61693157a48090607385f75cea51c32a462b9e8a5810a39c11ccb05cdf9ae"
